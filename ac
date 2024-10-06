@@ -19,14 +19,14 @@
         }
         h2 {
             color: #e63946;
-            margin-top: 10px; /* Reduzido */
+            margin-top: 20px;
             font-size: 18px;
-            padding: 0 5px; /* Reduzido */
+            padding: 0 10px; /* Adiciona espaçamento nas laterais */
             z-index: 5; /* Para garantir que o texto fique acima */
         }
         h1 {
             color: #e63946;
-            margin-top: 10px; /* Reduzido */
+            margin-top: 20px;
             font-size: 28px; /* Aumenta o tamanho da fonte */
             z-index: 5; /* Para garantir que o texto fique acima */
         }
@@ -34,7 +34,7 @@
             width: 90%; /* Ajusta a imagem para caber na tela do celular */
             max-width: 400px; /* Limita a largura máxima */
             height: auto;
-            margin-top: 5px; /* Espaço entre a imagem e o texto reduzido */
+            margin-top: 10px; /* Espaço entre a imagem e o texto */
         }
         .floating-image {
             position: absolute;
